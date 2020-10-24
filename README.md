@@ -12,7 +12,7 @@ CraftBeerPi plugin to upload sensor and actor data to Google Spreadsheet. Will m
 1. Install repo packages listed above
 2. Install plugin via the Plugins section in Craftbeerpi (hopefully done)
 3. Update the parameters listed below with required values
-- **GSheet_Address** is your google spreadsheet address. E.g "https://docs.google.com/spreadsheets/d/1ZAj40B5GVSwPAkJa2ST34etrhrtnfgndhDQ44vRA5bt-OU/edit#"
+- **GSheet_Ferm_Address** is your google spreadsheet address for your fermentation. E.g "https://docs.google.com/spreadsheets/d/1ZAj40B5GVSwPAkJa2ST34etrhrtnfgndhDQ44vRA5bt-OU/edit#"
 - **GSheet_Auth** is a Wordpress username to post data as  (must be an author)
 - **Wordpress_Password** is your wordpress password
 - **Wordpress_Tag** is a tag which is appended to each post from CraftBeerPi
